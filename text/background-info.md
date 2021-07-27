@@ -9,7 +9,7 @@ I used ran Windows 7. That being said, I may return to write something of a hist
 after progressing further into this project if I feel like I have something insightful to say,
 but, as it stands right now, I'd feel much more comfortable leaving the subject of operating
 system history to more capable sources (the 
-[wikipedia page] (https://en.wikipedia.org/wiki/History_of_operating_systems) is a good jumping
+[wikipedia page](https://en.wikipedia.org/wiki/History_of_operating_systems) is a good jumping
 off point).
 
 There is, however, plenty of background information we should still cover first before we can
