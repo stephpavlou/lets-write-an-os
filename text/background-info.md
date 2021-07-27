@@ -59,12 +59,12 @@ before moving forward.
 
 1. **A good handle on the C programming language and x86 Assembly**
 
-- We will be writing this our OS principally in C and x86 Assembly, so being competent with those
-technologies is an obvious prerequisite.
+	We will be writing this our OS principally in C and x86 Assembly, so being competent with those
+	technologies is an obvious prerequisite.
 
 2. **Qemu, NASM, and GCC**
 
-- We will be using Qemu to emulate an x86 environment, and GCC and NASM to compile and assemble
-our code. Look up how to install and set up these tools on your computer beforehand.
+	We will be using Qemu to emulate an x86 environment, and GCC and NASM to compile and assemble
+	our code. Look up how to install and set up these tools on your computer beforehand.
 
 With that out of the way, let's jump in.
