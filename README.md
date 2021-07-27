@@ -11,5 +11,5 @@ about the journey.
 
 ## Contributing
 I welcome all contributions to this project, especially the correcting of any errors, factual or
-grammatical. The main idea is just to learn a whole lot and document the process.
+grammatical. The goal is just to learn a whole lot and document the process.
 
