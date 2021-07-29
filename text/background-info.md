@@ -42,8 +42,8 @@ fit together to form an overall solution. Modularity simplifies problem-solving 
 easier to manage, repair and scale. Imagine if every program you wrote also needed to worry about
 the internal mechanics and comlexity of writing to a external device such as an SSD or a display;
 a better way to solve this problem is to have one program solve the problem of writing to such a
-device and then to simply pass what you want written to that program (of course, this is not how
-it exactly works, but you get the idea). This is what we mean by providing an interface. By 
+device and then to simply pass what you want written to that program (of course, this is not exactly
+how it works, but you get the idea). This is what we mean by providing an interface. By 
 environment, we mean the ability to isolate running programs from one another for the purposes 
 of security, manageability and simplicity for the user application programmer's sake.
 
